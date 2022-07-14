@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan1here
 - 👀 I’m interested to learn programming ...
-- 🌱 I’m currently learning ... py.
+- 🌱 I’m currently learning ... js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dev.ryan.here@gmail
 
